@@ -68,11 +68,20 @@ Este projeto tem como objetivo explorar a aplicação do **Pensamento Computacio
 
 ## 📚 Referências
 
-* Fundação Bradesco - Pensamento Computacional
-* MAPFRE - Carros Autônomos
-* IA Expert - YOLO Detecção de Objetos
-* Secretaria da Educação - Pensamento Computacional
-* CanalTech, Medium, Terra e outros
+* Pensamento Computacional. Disponível em: <https://www.ev.org.br/cursos/pensamento-computacional>. Acesso em: 17 maio. 2025.
+* Secretaria da Educação. Pensamento Computacional. 2022. Disponível em: <https://sedu.es.gov.br/Media/sedu/pdf%20e%20Arquivos/PENSAMENTO%20COMPUTACIONAL%20(ebook).pdf>. Acesso em: 17 maio. 2025.
+* NOTICIAS. Carro autônomo e sua história. Disponível em: <https://reparacaoautomotiva.com.br/2022/04/14/carro-autonomo-e-sua-historia/>. Acesso em: 17 maio. 2025.
+* PASSARO, F. O que é um carro autônomo? Disponível em: <https://www.mapfre.com.br/para-voce/seguro-auto/artigos/o-que-e-um-carro-autonomo/>. Acesso em: 17 maio. 2025.
+* ALVES, G. Detecção de Objetos com YOLO - Uma abordagem moderna. Disponível em:<https://iaexpert.academy/2020/10/13/deteccao-de-objetos-com-yolo-uma-abordagem-moderna/>. Acesso em: 17 maio. 2025.
+* PECAHOJE. O passado, presente e futuro dos carros autônomos. Disponível em: . Acesso em: 17 maio. 2025.
+* RIBEIRO, F. O que é o sensor LiDAR? Veja como ele funciona nos carros autônomos. Disponível em: <https://canaltech.com.br/veiculos-autonomos/o-que-e-sensor-lidar/>. Acesso em: 17 maio. 2025.
+* NOTICIAS. Carro autônomo e sua história. Disponível em: <https://reparacaoautomotiva.com.br/2022/04/14/carro-autonomo-e-sua-historia/>. Acesso em: 17 maio. 2025.
+* OLIVEIRA, I. Brasil ainda engatinha em carros autônomos por falta de leis e estrutura. Disponível em: <https://www.terra.com.br/byte/brasil-ainda-engatinha-em-carros-autonomos-por-falta-de-leis-e-estrutura,191004eb97d71eb2db19a3d1360ddacbt53rrqwj.html>. Acesso em: 17 maio. 2025.
+* DE BRITO VIEIRA, P. H. Carros autônomos. Disponível em: <https://medium.com/tend%C3%AAncias-digitais/carros-aut%C3%B4nomos-5480437fdb66>. Acesso em: 17 maio. 2025.
+* COMPUTAÇÃO, C. E. Detector de objetos YOLO. Disponível em: <http://www.youtube.com/playlist?list=PLqSRiSjByYuKqUleBDbwjNt5GJLhoae70.> Acesso em: 17 maio. 2025.
+* Maryam Boneh. Vehicle-Detection. Disponível em: <https://github.com/MaryamBoneh/Vehicle-Detection?tab=readme-ov-file>. Acessado em 17 maio. 2025
+* AntonMu AntonMu. TrainYourOwnYOLO: Building a Custom Object Detector from Scratch. <https://github.com/bothmena/yolo-v3-vehicle-detection>. Acesso em 17 maio. 2025
+
 
 ---
 
