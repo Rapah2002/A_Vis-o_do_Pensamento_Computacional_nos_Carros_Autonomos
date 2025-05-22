@@ -90,5 +90,3 @@ Este projeto tem como objetivo explorar a aplicação do **Pensamento Computacio
 Este projeto é de caráter acadêmico e livre para estudos e pesquisas. 🚀
 
 ---
-
-Se quiser, posso gerar o arquivo `README.md` diretamente para você baixar. Quer? 😊
