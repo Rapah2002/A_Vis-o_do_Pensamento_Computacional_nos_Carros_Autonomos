@@ -59,10 +59,10 @@ Este projeto tem como objetivo explorar a aplicação do **Pensamento Computacio
 ## 👨‍💻 Autores
 
 * Diego Lohan - 27990231
-* Ezequiel Magalhães - 28256131
 * Guilherme Coelho - 30365074
 * Lucas Sousa - 27963217
 * Raphael Veras - 28253671
+* Ezequiel Magalhães - 28256131
 
 ---
 
