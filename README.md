@@ -47,12 +47,12 @@ Este projeto tem como objetivo explorar a aplicação do **Pensamento Computacio
 ---
 
 ## 👨‍💻 Autores
-
-* Diego Lohan - 27990231
-* Guilherme Coelho - 30365074
-* Lucas Sousa - 27963217
-* Raphael Veras - 28253671
-* Ezequiel Magalhães - 28256131
+Universidade do Distrito Federal (UDF)
+* Diego Lohan - @diegolohan14
+* Guilherme Coelho - @guilh3rmecoelho
+* Lucas Sousa - @lucassousaa976
+* Raphael Veras - @rapah2002
+* Ezequiel Magalhães - @EzequielMagalhaes
 
 ---
 
