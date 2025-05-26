@@ -46,16 +46,6 @@ Este projeto tem como objetivo explorar a aplicação do **Pensamento Computacio
 
 ---
 
-## 🚀 Como contribuir
-
-1. Faça um fork deste repositório 🍴
-2. Crie uma branch (`git checkout -b feature/NomeDaFeature`) 🌿
-3. Commit suas alterações (`git commit -m 'Mensagem'`) 💾
-4. Push na branch (`git push origin feature/NomeDaFeature`) 🚀
-5. Abra um Pull Request 📨
-
----
-
 ## 👨‍💻 Autores
 
 * Diego Lohan - 27990231
