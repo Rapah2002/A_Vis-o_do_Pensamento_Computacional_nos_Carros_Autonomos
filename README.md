@@ -2,7 +2,7 @@
 
 ## 📝 Descrição
 
-Este projeto tem como objetivo explorar a aplicação do **Pensamento Computacional** no desenvolvimento de **carros autônomos** 🚘✨. Através de conceitos como **abstração, decomposição, reconhecimento de padrões e algoritmos**, mostramos como essas práticas são fundamentais na criação de sistemas inteligentes, com foco no uso da IA **YOLO (You Only Look Once)** para detecção de objetos em tempo real.
+Este projeto tem como objetivo explorar a aplicação do **Pensamento Computacional** no desenvolvimento de **carros autônomos** 🚘✨. Através de conceitos como **abstração, decomposição, reconhecimento de padrões e algoritmos**, mostramos como essas práticas são fundamentais na criação de sistemas inteligentes, com foco no uso da IA **YOLO (You Only Look Once)** para detecção de objetos em tempo real. 
 
 > 🚦 O trabalho apresenta um panorama desde os primeiros experimentos com veículos autônomos até os desafios atuais enfrentados por tecnologias modernas como visão computacional e inteligência artificial.
 
